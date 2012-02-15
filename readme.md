@@ -1,9 +1,9 @@
 PlayerVersion
 =============
 
-What Flash player version are you running? 
+**'What Flash player version are you running?'**
 
-How many times have you had to a user that question and then run them through the process of finding out their Flash Player version. 
+How many times have you had to a user that question and then run them through the process of finding out their Flash Player version?
 
 Instead, you can just point them to http://playerversion.com
 
